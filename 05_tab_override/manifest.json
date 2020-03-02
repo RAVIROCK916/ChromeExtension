@@ -1,0 +1,9 @@
+{
+    "manifest_version": 2,
+    "name" : "Chrome Extension 5",
+    "version" : "1.0",
+    "description" : "Good Evening"
+    "chrome_url_overrides" : {
+        "bookmarks": "myPage.html"
+    }
+}
